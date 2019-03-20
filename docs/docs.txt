@@ -1,0 +1,1 @@
+This folder will contain business and creative assets. Anything that's not code but good to have with the project is here.
