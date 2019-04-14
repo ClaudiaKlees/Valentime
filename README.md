@@ -10,5 +10,4 @@ Completely on my Desktop, no need for online connection or logging in.
 Cross-Platform
 Make notes maybe and subject? Might think of that feature later.
 
-Author: Claudia Klees
 This is just a draft. I will let people know if they can upload it.
